@@ -1,0 +1,4 @@
+interface TeachingPerson {
+
+    void teachToOtherPeople();
+}
